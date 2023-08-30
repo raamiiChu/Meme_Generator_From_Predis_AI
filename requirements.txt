@@ -1,0 +1,4 @@
+git+https://github.com/ozgur/python-firebase
+selenium
+transformers
+ckip-transformers
